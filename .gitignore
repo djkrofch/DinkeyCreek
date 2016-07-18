@@ -47,3 +47,10 @@ Temporary Items
 .apdisk
 FWI_input_to_landis.csv
 .ipynb_checkpoints/DinkeyCreek-checkpoint.ipynb
+
+# Graphics files
+.tif
+
+# Text files
+.csv
+.txt
