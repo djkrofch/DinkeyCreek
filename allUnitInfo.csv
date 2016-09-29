@@ -1,0 +1,59 @@
+,index,Area,Biome,ManagementUnit,Treatment,pHSF,pHSF_N,OpconUnit
+0,51,7,Subalpine,155.0,Burn only,Extreme,5,15
+1,50,45,Subalpine,154.0,Burn only,Very High,4,15
+2,20,1,Subalpine,53.0,Thin and burn,High,3,5
+3,49,98,Subalpine,153.0,Burn only,High,3,15
+4,19,22,Subalpine,52.0,Thin and burn,Medium,2,5
+5,48,194,Subalpine,152.0,Burn only,Medium,2,15
+6,18,754,Subalpine,51.0,Thin and burn,Low,1,5
+7,47,315,Subalpine,151.0,Burn only,Low,1,15
+8,17,1135,Subalpine,50.0,Thin and burn,None,0,5
+9,46,170,Subalpine,150.0,Burn only,None,0,15
+10,45,23,Red Fir,144.0,Burn only,Very High,4,14
+11,16,2,Red Fir,43.0,Thin and burn,High,3,4
+12,44,147,Red Fir,143.0,Burn only,High,3,14
+13,15,31,Red Fir,42.0,Thin and burn,Medium,2,4
+14,43,419,Red Fir,142.0,Burn only,Medium,2,14
+15,14,1248,Red Fir,41.0,Thin and burn,Low,1,4
+16,42,855,Red Fir,141.0,Burn only,Low,1,14
+17,13,2916,Red Fir,40.0,Thin and burn,None,0,4
+18,41,280,Red Fir,140.0,Burn only,None,0,14
+19,40,1,Ponderosa,134.0,Burn only,Very High,4,13
+20,12,1,Ponderosa,33.0,Thin and burn,High,3,3
+21,39,10,Ponderosa,133.0,Burn only,High,3,13
+22,11,32,Ponderosa,32.0,Thin and burn,Medium,2,3
+23,38,189,Ponderosa,132.0,Burn only,Medium,2,13
+24,10,499,Ponderosa,31.0,Thin and burn,Low,1,3
+25,37,952,Ponderosa,131.0,Burn only,Low,1,13
+26,9,4026,Ponderosa,30.0,Thin and burn,None,0,3
+27,36,1798,Ponderosa,130.0,Burn only,None,0,13
+28,57,50,Not Managed,165.0,Burn only,Extreme,5,16
+29,25,4,Not Managed,64.0,Thin and burn,Very High,4,6
+30,56,186,Not Managed,164.0,Burn only,Very High,4,16
+31,24,61,Not Managed,63.0,Thin and burn,High,3,6
+32,55,236,Not Managed,163.0,Burn only,High,3,16
+33,23,236,Not Managed,62.0,Thin and burn,Medium,2,6
+34,54,313,Not Managed,162.0,Burn only,Medium,2,16
+35,22,1061,Not Managed,61.0,Thin and burn,Low,1,6
+36,53,979,Not Managed,161.0,Burn only,Low,1,16
+37,21,2167,Not Managed,60.0,Thin and burn,None,0,6
+38,52,2039,Not Managed,160.0,Burn only,None,0,16
+39,30,4,Mcon-Pine,114.0,Burn only,Very High,4,11
+40,3,5,Mcon-Pine,13.0,Thin and burn,High,3,1
+41,29,405,Mcon-Pine,113.0,Burn only,High,3,11
+42,2,301,Mcon-Pine,12.0,Thin and burn,Medium,2,1
+43,28,1343,Mcon-Pine,112.0,Burn only,Medium,2,11
+44,1,3338,Mcon-Pine,11.0,Thin and burn,Low,1,1
+45,27,1082,Mcon-Pine,111.0,Burn only,Low,1,11
+46,0,4506,Mcon-Pine,10.0,Thin and burn,None,0,1
+47,26,1490,Mcon-Pine,110.0,Burn only,None,0,11
+48,8,1,Mcon-Fir,24.0,Thin and burn,Very High,4,2
+49,35,8,Mcon-Fir,124.0,Burn only,Very High,4,12
+50,7,45,Mcon-Fir,23.0,Thin and burn,High,3,2
+51,34,340,Mcon-Fir,123.0,Burn only,High,3,12
+52,6,607,Mcon-Fir,22.0,Thin and burn,Medium,2,2
+53,33,820,Mcon-Fir,122.0,Burn only,Medium,2,12
+54,5,2778,Mcon-Fir,21.0,Thin and burn,Low,1,2
+55,32,749,Mcon-Fir,121.0,Burn only,Low,1,12
+56,4,3336,Mcon-Fir,20.0,Thin and burn,None,0,2
+57,31,403,Mcon-Fir,120.0,Burn only,None,0,12
